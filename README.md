@@ -6,6 +6,6 @@
 
 - This project is a part of Udacity's Front-End Web Developer Nanodegree. It is uploaded on GitHub as a separate repository for grading purposes.
 
-- Animal Trading Card can be seen on [GitHub pages](https://kmandic.github.io/Udacity-FEND-Project-Animal-Trading-Cards/).
+- Animal Trading Card can be seen on [GitHub pages](https://kmandic.github.io/Udacity-FEND-Project-Animal-Trading-Cards/card.html).
 
 - After the project got reviewed and passed, I've update it a bit per review suggestions.
